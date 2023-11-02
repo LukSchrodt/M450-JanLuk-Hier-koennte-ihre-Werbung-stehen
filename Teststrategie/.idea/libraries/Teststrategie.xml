@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Teststrategie">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gson.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/okhttp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
